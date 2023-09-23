@@ -1,0 +1,1 @@
+extern int variable_age = 18; // external variable (also global)
